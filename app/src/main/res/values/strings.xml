@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Covid News</string>
+    <string name="main_menu_settings">设置</string>
+    <string name="main_menu_favorites">喜好</string>
+    <string name="main_menu_about">关于</string>
+    <string name="main_menu_news">新闻</string>
+
+    <string name="nav_news_title">新闻</string>
+    <string name="nav_favorites_title">收藏</string>
+    <string name="nav_settings_title">设置</string>
+    <string name="nav_about_title">关于</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="search_not_found">找不到相关内容</string>
+
+    <string name="about_author">dac gzy</string>
+    <string name="about_addr">https://github.com/Acdimy/JavaBigWork-Covid19News</string>
+    <string name="about_pro">该APP主要完成了对疫情新闻的分类及展示，同时实现了对新冠肺炎数据的获取、疫情实体的获取和相关专业人员（知疫学者）的信息获取。</string>
+    <string name="about_versions">Covid News v1.0.0release</string>
+</resources>

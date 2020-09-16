@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/covid_news"
+            android:title="新闻"
+            android:icon="@drawable/ic_news"/>
+        <item
+            android:id="@+id/covid_settings"
+            android:title="@string/nav_settings_title"
+            android:icon="@drawable/ic_settings"/>
+        <item
+            android:id="@+id/covid_about"
+            android:title="@string/nav_about_title"
+            android:icon="@drawable/ic_about"/>
+        <item
+            android:id="@+id/covid_coviddata"
+            android:title="新冠数据"
+            android:icon="@drawable/ic_coviddata"/>
+        <item
+            android:id="@+id/covid_entity"
+            android:title="疫情图谱"
+            android:icon="@drawable/ic_entity"/>
+        <item
+            android:id="@+id/covid_master"
+            android:title="知疫学者"
+            android:icon="@drawable/ic_expert"/>
+    </group>
+
+</menu>
